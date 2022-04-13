@@ -1,5 +1,5 @@
 # project3
 Đồ Án Thiết Kế 3
 
-Lý do đồ án 3 không có code: là bởi vì máy  lỗi win khi chưa kịp sao lưu dữ liệu. 
-Về cơ a đã được trình bày trong quyển báo cáo, phần bị thiếu là phần  học máy thông qua việc tự động tìm kiếm dữ liệu trên google.
+
+Lý do đồ án 3 không có file code là do máy bị lỗi win nên không kịp sao lưu dữ liệu. Các chi tiết triển khai được mô tả trong báo cáo. Phần bị thiếu là phần học máy được triển khai bằng cách thu thập thông tin và hình ảnh thông qua google được hỗ trợ bởi hàm BeautifulSoup().
